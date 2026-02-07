@@ -47,15 +47,14 @@ I aim to design reliable, production-grade data systems that transform raw data 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeumesh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeumesh&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shreeumesh&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeumesh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shreeumesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---

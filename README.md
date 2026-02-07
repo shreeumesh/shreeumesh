@@ -22,7 +22,7 @@ I aim to design reliable, production-grade data systems that transform raw data 
 ![CCL](https://img.shields.io/badge/CCL-Healthcare-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔹 Data Engineering
+### 🔹 Data Engineering [Beginner - Intermediate]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)

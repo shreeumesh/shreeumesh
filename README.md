@@ -47,11 +47,9 @@ I aim to design reliable, production-grade data systems that transform raw data 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeumesh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
-</p>
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shreeumesh&theme=react-dark)
 
 ---
 

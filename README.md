@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=Umesh+M;Backend+Developer;Transitioning+to+Data+Engineering;Healthcare+Data+Systems+%7C+SQL+%7C+Python+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=Umesh+M;Software+Developer;Transitioning+to+Data+Engineering;Healthcare+Data+Systems+%7C+SQL+%7C+Python+%7C+Cloud" />
 </p>
 
 ---

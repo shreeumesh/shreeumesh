@@ -47,9 +47,13 @@ I aim to design reliable, production-grade data systems that transform raw data 
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Featured Projects
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shreeumesh&theme=react-dark)
+🔹 Healthcare Data ETL Pipeline  
+🔹 SQL Query Optimization Practice  
+🔹 Data Engineering Learning Projects  
+
+Building practical, production-oriented data solutions.
 
 ---
 

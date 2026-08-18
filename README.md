@@ -1,93 +1,140 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=Umesh+M;Software+Developer;Transitioning+to+Data+Engineering;Healthcare+Data+Systems+%7C+SQL+%7C+Python+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=Umesh+M;Cerner+Analyst;Healthcare+Data+%7C+SQL+%7C+CCL;Building+Towards+Data+Engineering" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Developer with hands-on experience in healthcare data systems.  
-Strong foundation in SQL, data models, reporting workflows, and clinical analytics support.
+Cerner Analyst with hands-on experience in **healthcare data systems, SQL, CCL, reporting workflows, and healthcare analytics**.
 
-Currently transitioning into **Data Engineering**, focusing on building scalable data pipelines, cloud data warehousing solutions, and distributed processing systems.
+Currently working with healthcare data systems while actively transitioning toward **Data Engineering**.
 
-I aim to design reliable, production-grade data systems that transform raw data into meaningful insights.
+My current focus is building a strong foundation in:
+
+- Advanced SQL & SQL Server
+- Query optimization & execution plans
+- Python
+- ETL / ELT
+- Data transformation
+- Data warehousing
+- Distributed data processing
+- Cloud data platforms
+
+I learn by building practical projects rather than only studying theory. My current **Data Engineering Journey** uses a healthcare domain to practice SQL, data transformation, optimization, and eventually end-to-end data pipelines.
+
+> 🎯 Goal: Become a Data Engineer capable of designing reliable, scalable, production-oriented data systems.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Core (Hands-On Experience)
+### 🔹 Healthcare & SQL | Hands-On
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![CCL](https://img.shields.io/badge/CCL-Healthcare-blue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mirth Connect](https://img.shields.io/badge/Mirth%20Connect-Clinical%20Integration-green?style=for-the-badge)
-![Health Data Intelligence](https://img.shields.io/badge/Health%20Data%20Intelligence-Analytics-darkgreen?style=for-the-badge)
+![CCL](https://img.shields.io/badge/CCL-Cerner%20Healthcare-blue?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Healthcare Data Systems**
+- Cerner Millennium
+- Revenue Cycle Management
+- Healthcare reporting
+- Clinical & operational data workflows
+- Data extraction and transformation
 
 ---
 
-### 🔹 Data Engineering (Learning & Building Phase)
+### 🔹 Data Engineering | Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Kafka** – Theoretical knowledge (streaming architecture, producers/consumers, partitions, offsets)  
-**Databricks** – Planned hands-on practice (Lakehouse & distributed processing)  
-**Snowflake** – Planned hands-on practice (Cloud data warehousing concepts)
+Currently building skills in:
 
----
-
-### 🔹 Cloud & BI (Conceptual Knowledge)
-
-![Oracle Analytics Cloud](https://img.shields.io/badge/Oracle%20Analytics%20Cloud-Analytics-red?style=for-the-badge)
-![OBIEE](https://img.shields.io/badge/OBIEE-BI-orange?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Conceptual-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-Conceptual-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-Understanding of:
-- Cloud data architecture fundamentals  
-- BI reporting layers  
-- Data visualization concepts  
-- Enterprise analytics workflows  
-
+- Python
+- ETL / ELT
+- Data pipelines
+- Data transformation
+- SQL + Python integration
+- Data quality
+- Data warehousing
+- Batch processing
+- Automation
 
 ---
 
-## 🎯 Current Focus
+### 🔹 Data Engineering | Planned
 
-🔹 Advanced SQL (performance tuning, indexing, execution plans, window functions)  
-🔹 Python-based ETL / ELT pipeline development  
-🔹 Cloud Data Warehousing with Snowflake  
-🔹 Distributed data processing using Databricks  
-🔹 Azure Data ecosystem fundamentals  
-🔹 BI dashboards & analytics using Power BI  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-> 🚀 Goal: Build scalable, production-ready data engineering solutions by 2026.
+Planned hands-on learning:
 
----
-
-## 🚀 Featured Projects
-
-🔹 Healthcare Data ETL Pipeline  
-🔹 SQL Query Optimization Practice  
-🔹 Data Engineering Learning Projects  
-
-Building practical, production-oriented data solutions.
+- PySpark
+- Databricks
+- Azure Data Factory
+- Azure Data Lake
+- Snowflake
+- Cloud data architecture
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 SQL & Query Optimization
 
-![Snake animation](https://github.com/shreeumesh/shreeumesh/blob/output/github-contribution-grid-snake.svg)
+Currently going deeper into SQL Server through practical healthcare scenarios.
+
+### Topics Practiced
+
+- Database design
+- Constraints
+- JOINs
+- Aggregations
+- CTEs
+- Subqueries
+- Derived tables
+- Temporary tables
+- Views
+- `APPLY`
+- Window functions
+- `ROW_NUMBER()`
+- `RANK()`
+- `DENSE_RANK()`
+- `LAG()` / `LEAD()`
+- Latest record per group
+- Top-N per group
+- String manipulation
+- `STRING_SPLIT()`
+- `STRING_AGG()`
+- Dynamic SQL
+- Dynamic PIVOT
+- Indexing
+- Execution plans
+- Covering indexes
+- Query optimization
+- Gaps & Islands
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umesh_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-m-96a82320b)
-
----
-
-⚙️ This profile is designed to evolve continuously using automation and structured content updates.
-
-💡 From Healthcare Data Systems → Data Engineering.
+```text
+SQL Server
+    ↓
+Advanced SQL
+    ↓
+Query Optimization
+    ↓
+Python
+    ↓
+ETL / ELT
+    ↓
+Data Warehousing
+    ↓
+PySpark
+    ↓
+Databricks
+    ↓
+Cloud Data Engineering
